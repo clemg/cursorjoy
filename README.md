@@ -12,3 +12,5 @@ via private CoreGraphics APIs and redrawing a vector pointer in an always-on-top
 click-through overlay window that tracks the mouse, running the simulation.
 
 # Demo
+
+<video src="https://github.com/user-attachments/assets/871cb341-95b7-49d0-ba9c-9c6362909fcf" controls muted width="100%"></video>
