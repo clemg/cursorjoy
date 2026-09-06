@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# Xcode / SwiftPM
+.build/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+Package.resolved
+
+# Build products and generated assets
+macos/build/
+macos/tools/
+macos/build.sh
+macos/make-installer.sh
+
+# Docs kept locally, not shipped with the source
+macos/INSTALL.md
+macos/SPEC.md
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
